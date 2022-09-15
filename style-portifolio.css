@@ -1,4 +1,5 @@
 body{
+    
     background-image: url("./imagens/download");
     background-size: 600px 800px;
     background-position: center;
@@ -15,3 +16,10 @@ h3{
 p{
     text-align: center;
 }
+
+
+ul{
+    margin: 0 auto 0 40%;
+    
+}
+
