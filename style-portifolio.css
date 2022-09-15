@@ -1,3 +1,17 @@
+body{
+    background-image: url("./imagens/download");
+    background-size: 600px 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+h1{
+
+}
 h3{
     font-family: monospace;
+    text-align: center;
+}
+p{
+    text-align: center;
 }
